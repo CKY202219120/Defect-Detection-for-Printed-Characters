@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Deep Learning files
+*.pt
+*.pth
+*.weights
+checkpoints/
+
+# Dataset & Logs
+dataset/
+Dataset/
+runs/
+logs/
+events.out.tfevents.*
+results.csv
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# User generated outputs
+*_测试输出1/
+*_测试输出2/
+output/
+output_*/
+output上/
+predict_results/
+hybrid_output/

@@ -1,0 +1,8 @@
+
+        train: C:\Users\ASUS\Desktop\Inject\labels\train
+        val: C:\Users\ASUS\Desktop\Inject\labels\test
+        test: C:\Users\ASUS\Desktop\Inject\labels\test
+
+        nc: 2
+        names: ['normal', 'abnormal']
+        
